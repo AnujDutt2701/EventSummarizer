@@ -1,0 +1,42 @@
+,,,
+"{""label"": ""PERSON"", ""pattern"": """,specialist,"""}","{""label"": ""PERSON"", ""pattern"": ""specialist""}"
+"{""label"": ""PERSON"", ""pattern"": """,police,"""}","{""label"": ""PERSON"", ""pattern"": ""police""}"
+,,,
+"{""label"": ""PERSON"", ""pattern"": """,legislator,"""}","{""label"": ""PERSON"", ""pattern"": ""legislator""}"
+"{""label"": ""PERSON"", ""pattern"": """,prisoners,"""}","{""label"": ""PERSON"", ""pattern"": ""prisoners""}"
+"{""label"": ""PERSON"", ""pattern"": """,activists,"""}","{""label"": ""PERSON"", ""pattern"": ""activists""}"
+"{""label"": ""PERSON"", ""pattern"": """,workers,"""}","{""label"": ""PERSON"", ""pattern"": ""workers""}"
+"{""label"": ""PERSON"", ""pattern"": """,members,"""}","{""label"": ""PERSON"", ""pattern"": ""members""}"
+"{""label"": ""PERSON"", ""pattern"": """,locals,"""}","{""label"": ""PERSON"", ""pattern"": ""locals""}"
+"{""label"": ""PERSON"", ""pattern"": """,supporters,"""}","{""label"": ""PERSON"", ""pattern"": ""supporters""}"
+"{""label"": ""PERSON"", ""pattern"": """,employees,"""}","{""label"": ""PERSON"", ""pattern"": ""employees""}"
+,,,
+"{""label"": ""PERSON"", ""pattern"": """,students,"""}","{""label"": ""PERSON"", ""pattern"": ""students""}"
+"{""label"": ""PERSON"", ""pattern"": """,protesters,"""}","{""label"": ""PERSON"", ""pattern"": ""protesters""}"
+"{""label"": ""PERSON"", ""pattern"": """,residents,"""}","{""label"": ""PERSON"", ""pattern"": ""residents""}"
+"{""label"": ""PERSON"", ""pattern"": """,farmers,"""}","{""label"": ""PERSON"", ""pattern"": ""farmers""}"
+"{""label"": ""PERSON"", ""pattern"": """,victims,"""}","{""label"": ""PERSON"", ""pattern"": ""victims""}"
+"{""label"": ""PERSON"", ""pattern"": """,rioters,"""}","{""label"": ""PERSON"", ""pattern"": ""rioters""}"
+"{""label"": ""PERSON"", ""pattern"": """,villagers,"""}","{""label"": ""PERSON"", ""pattern"": ""villagers""}"
+,,,
+,,,
+"{""label"": ""PERSON"", ""pattern"": """,officials,"""}","{""label"": ""PERSON"", ""pattern"": ""officials""}"
+"{""label"": ""PERSON"", ""pattern"": """,civilians,"""}","{""label"": ""PERSON"", ""pattern"": ""civilians""}"
+"{""label"": ""PERSON"", ""pattern"": """,leaders,"""}","{""label"": ""PERSON"", ""pattern"": ""leaders""}"
+"{""label"": ""PERSON"", ""pattern"": """,communities,"""}","{""label"": ""PERSON"", ""pattern"": ""communities""}"
+,,,
+"{""label"": ""PERSON"", ""pattern"": """,devotees,"""}","{""label"": ""PERSON"", ""pattern"": ""devotees""}"
+"{""label"": ""PERSON"", ""pattern"": """,youth,"""}","{""label"": ""PERSON"", ""pattern"": ""youth""}"
+"{""label"": ""PERSON"", ""pattern"": """,militants,"""}","{""label"": ""PERSON"", ""pattern"": ""militants""}"
+"{""label"": ""PERSON"", ""pattern"": """,headmaster,"""}","{""label"": ""PERSON"", ""pattern"": ""headmaster""}"
+,,,
+"{""label"": ""PERSON"", ""pattern"": """,teachers,"""}","{""label"": ""PERSON"", ""pattern"": ""teachers""}"
+"{""label"": ""PERSON"", ""pattern"": """,lawyers,"""}","{""label"": ""PERSON"", ""pattern"": ""lawyers""}"
+,,,
+,,,
+"{""label"": ""PERSON"", ""pattern"": """,unidentified armed men,"""}","{""label"": ""PERSON"", ""pattern"": ""unidentified armed men""}"
+"{""label"": ""PERSON"", ""pattern"": """,tribal communities,"""}","{""label"": ""PERSON"", ""pattern"": ""tribal communities""}"
+"{""label"": ""PERSON"", ""pattern"": """,ethnic communities,"""}","{""label"": ""PERSON"", ""pattern"": ""ethnic communities""}"
+"{""label"": ""PERSON"", ""pattern"": """,unidentified assailants,"""}","{""label"": ""PERSON"", ""pattern"": ""unidentified assailants""}"
+"{""label"": ""PERSON"", ""pattern"": """,unidentified men,"""}","{""label"": ""PERSON"", ""pattern"": ""unidentified men""}"
+"{""label"": ""PERSON"", ""pattern"": """,unidentified gunmen,"""}","{""label"": ""PERSON"", ""pattern"": ""unidentified gunmen""}"

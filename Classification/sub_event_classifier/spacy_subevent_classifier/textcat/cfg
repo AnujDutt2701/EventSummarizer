@@ -1,0 +1,15 @@
+{
+  "architecture":"simple_cnn",
+  "exclusive_classes":true,
+  "labels":[
+    "Abduction/forced disappearance",
+    "Attack",
+    "Sexual violence",
+    "Mob violence",
+    "Peaceful protest",
+    "Protest with intervention",
+    "Violent demonstration",
+    "Excessive force against protesters"
+  ],
+  "pretrained_vectors":null
+}

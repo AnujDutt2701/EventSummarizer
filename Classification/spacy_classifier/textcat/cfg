@@ -1,0 +1,9 @@
+{
+  "architecture":"simple_cnn",
+  "exclusive_classes":true,
+  "labels":[
+    "RiotsProtests",
+    "ViolenceAgainstCivilians"
+  ],
+  "pretrained_vectors":null
+}

@@ -1,0 +1,798 @@
+{"label":"PERSON","pattern":[{"lower":"students"}]}
+{"label":"PERSON","pattern":[{"lower":"maoists"}]}
+{"label":"PERSON","pattern":[{"lower":"acquaintances"}]}
+{"label":"PERSON","pattern":[{"lower":"unidentified"},{"lower":"armed"},{"lower":"men"}]}
+{"label":"PERSON","pattern":[{"lower":"tribal"},{"lower":"communities"}]}
+{"label":"PERSON","pattern":[{"lower":"ethnic"},{"lower":"communities"}]}
+{"label":"PERSON","pattern":[{"lower":"unidentified"},{"lower":"assailants"}]}
+{"label":"PERSON","pattern":[{"lower":"unidentified"},{"lower":"men"}]}
+{"label":"PERSON","pattern":[{"lower":"unidentified"},{"lower":"gunmen"}]}
+{"label":"GPE","pattern":[{"lower":"san"},{"lower":"francisco"}]}
+{"label":"LOC","pattern":"Baba"}
+{"label":"LOC","pattern":"Andhra Pradesh"}
+{"label":"LOC","pattern":"Arunachal Pradesh"}
+{"label":"LOC","pattern":"Assam"}
+{"label":"LOC","pattern":"Bihar"}
+{"label":"LOC","pattern":"Chandigarh"}
+{"label":"LOC","pattern":"Chhattisgarh"}
+{"label":"LOC","pattern":"Dadra and Nagar Haveli"}
+{"label":"LOC","pattern":"Daman and Diu"}
+{"label":"LOC","pattern":"Delhi"}
+{"label":"LOC","pattern":"Goa"}
+{"label":"LOC","pattern":"Gujarat"}
+{"label":"LOC","pattern":"Haryana"}
+{"label":"LOC","pattern":"Himachal Pradesh"}
+{"label":"LOC","pattern":"Jammu and Kashmir"}
+{"label":"LOC","pattern":"Jharkhand"}
+{"label":"LOC","pattern":"Karnataka"}
+{"label":"LOC","pattern":"Kerala"}
+{"label":"LOC","pattern":"Lakshadweep"}
+{"label":"LOC","pattern":"Madhya Pradesh"}
+{"label":"LOC","pattern":"Maharashtra"}
+{"label":"LOC","pattern":"Manipur"}
+{"label":"LOC","pattern":"Meghalaya"}
+{"label":"LOC","pattern":"Mizoram"}
+{"label":"LOC","pattern":"Nagaland"}
+{"label":"LOC","pattern":"Odisha"}
+{"label":"LOC","pattern":"Puducherry"}
+{"label":"LOC","pattern":"Punjab"}
+{"label":"LOC","pattern":"Rajasthan"}
+{"label":"LOC","pattern":"Sikkim"}
+{"label":"LOC","pattern":"Tamil Nadu"}
+{"label":"LOC","pattern":"Telangana"}
+{"label":"LOC","pattern":"Tripura"}
+{"label":"LOC","pattern":"Uttar Pradesh"}
+{"label":"LOC","pattern":"Uttarakhand"}
+{"label":"LOC","pattern":"West Bengal"}
+{"label":"LOC","pattern":"Anantapur"}
+{"label":"LOC","pattern":"Tawang"}
+{"label":"LOC","pattern":"Baksa"}
+{"label":"LOC","pattern":"Araria"}
+{"label":"LOC","pattern":"Chandigarh"}
+{"label":"LOC","pattern":"Balod"}
+{"label":"LOC","pattern":"Dadra & Nagar Haveli"}
+{"label":"LOC","pattern":"Daman"}
+{"label":"LOC","pattern":"Central Delhi"}
+{"label":"LOC","pattern":"North Goa"}
+{"label":"LOC","pattern":"Ahmedabad"}
+{"label":"LOC","pattern":"Ambala"}
+{"label":"LOC","pattern":"Ambur"}
+{"label":"LOC","pattern":"Bilaspur"}
+{"label":"LOC","pattern":"Anantnag"}
+{"label":"LOC","pattern":"Bokaro"}
+{"label":"LOC","pattern":"Bagalkot"}
+{"label":"LOC","pattern":"Alappuzha"}
+{"label":"LOC","pattern":"Agatti"}
+{"label":"LOC","pattern":"Agar Malwa"}
+{"label":"LOC","pattern":"Ahmednagar"}
+{"label":"LOC","pattern":"Bishnupur"}
+{"label":"LOC","pattern":"East Garo Hills"}
+{"label":"LOC","pattern":"Aizawl"}
+{"label":"LOC","pattern":"Dimapur"}
+{"label":"LOC","pattern":"Angul"}
+{"label":"LOC","pattern":"Karaikal"}
+{"label":"LOC","pattern":"Amritsar"}
+{"label":"LOC","pattern":"Ajmer"}
+{"label":"LOC","pattern":"East Sikkim"}
+{"label":"LOC","pattern":"Ariyalur"}
+{"label":"LOC","pattern":"Adilabad"}
+{"label":"LOC","pattern":"Dhalai"}
+{"label":"LOC","pattern":"Almora"}
+{"label":"LOC","pattern":"Agra"}
+{"label":"LOC","pattern":"Alipurduar"}
+{"label":"LOC","pattern":"Chittoor"}
+{"label":"LOC","pattern":"West Kameng"}
+{"label":"LOC","pattern":"Barpeta"}
+{"label":"LOC","pattern":"Arwal"}
+{"label":"LOC","pattern":"Baloda Bazar"}
+{"label":"LOC","pattern":"Diu"}
+{"label":"LOC","pattern":"East Delhi"}
+{"label":"LOC","pattern":"South Goa"}
+{"label":"LOC","pattern":"Amreli"}
+{"label":"LOC","pattern":"Bhiwani"}
+{"label":"LOC","pattern":"Chamba"}
+{"label":"LOC","pattern":"Bandipore"}
+{"label":"LOC","pattern":"Chatra"}
+{"label":"LOC","pattern":"Ballari (Bellary)"}
+{"label":"LOC","pattern":"Ernakulam"}
+{"label":"LOC","pattern":"Amini"}
+{"label":"LOC","pattern":"Alirajpur"}
+{"label":"LOC","pattern":"Akola"}
+{"label":"LOC","pattern":"Chandel"}
+{"label":"LOC","pattern":"East Jaintia Hills"}
+{"label":"LOC","pattern":"Champhai"}
+{"label":"LOC","pattern":"Kiphire"}
+{"label":"LOC","pattern":"Balangir"}
+{"label":"LOC","pattern":"Mahe"}
+{"label":"LOC","pattern":"Barnala"}
+{"label":"LOC","pattern":"Alwar"}
+{"label":"LOC","pattern":"North Sikkim"}
+{"label":"LOC","pattern":"Chennai"}
+{"label":"LOC","pattern":"Bhadradri Kothagudem"}
+{"label":"LOC","pattern":"Gomati"}
+{"label":"LOC","pattern":"Bageshwar"}
+{"label":"LOC","pattern":"Aligarh"}
+{"label":"LOC","pattern":"Bankura"}
+{"label":"LOC","pattern":"East Godavari"}
+{"label":"LOC","pattern":"East Kameng"}
+{"label":"LOC","pattern":"Biswanath"}
+{"label":"LOC","pattern":"Aurangabad"}
+{"label":"LOC","pattern":"Balrampur"}
+{"label":"LOC","pattern":"New Delhi"}
+{"label":"LOC","pattern":"Anand"}
+{"label":"LOC","pattern":"Charkhi Dadri"}
+{"label":"LOC","pattern":"Hamirpur"}
+{"label":"LOC","pattern":"Baramulla"}
+{"label":"LOC","pattern":"Deoghar"}
+{"label":"LOC","pattern":"Belagavi (Belgaum)"}
+{"label":"LOC","pattern":"Idukki"}
+{"label":"LOC","pattern":"Androth"}
+{"label":"LOC","pattern":"Anuppur"}
+{"label":"LOC","pattern":"Amravati"}
+{"label":"LOC","pattern":"Churachandpur"}
+{"label":"LOC","pattern":"East Khasi Hills"}
+{"label":"LOC","pattern":"Kolasib"}
+{"label":"LOC","pattern":"Kohima"}
+{"label":"LOC","pattern":"Balasore"}
+{"label":"LOC","pattern":"Pondicherry"}
+{"label":"LOC","pattern":"Bathinda"}
+{"label":"LOC","pattern":"Banswara"}
+{"label":"LOC","pattern":"South Sikkim"}
+{"label":"LOC","pattern":"Coimbatore"}
+{"label":"LOC","pattern":"Hyderabad"}
+{"label":"LOC","pattern":"Khowai"}
+{"label":"LOC","pattern":"Chamoli"}
+{"label":"LOC","pattern":"Allahabad"}
+{"label":"LOC","pattern":"Birbhum"}
+{"label":"LOC","pattern":"Guntur"}
+{"label":"LOC","pattern":"Papum Pare"}
+{"label":"LOC","pattern":"Bongaigaon"}
+{"label":"LOC","pattern":"Banka"}
+{"label":"LOC","pattern":"Bastar"}
+{"label":"LOC","pattern":"North Delhi"}
+{"label":"LOC","pattern":"Aravalli"}
+{"label":"LOC","pattern":"Faridabad"}
+{"label":"LOC","pattern":"Kangra"}
+{"label":"LOC","pattern":"Budgam"}
+{"label":"LOC","pattern":"Dhanbad"}
+{"label":"LOC","pattern":"Bengaluru (Bangalore) Rural"}
+{"label":"LOC","pattern":"Kannur"}
+{"label":"LOC","pattern":"Bithra"}
+{"label":"LOC","pattern":"Ashoknagar"}
+{"label":"LOC","pattern":"Aurangabad"}
+{"label":"LOC","pattern":"Imphal East"}
+{"label":"LOC","pattern":"North Garo Hills"}
+{"label":"LOC","pattern":"Lawngtlai"}
+{"label":"LOC","pattern":"Longleng"}
+{"label":"LOC","pattern":"Bargarh"}
+{"label":"LOC","pattern":"Yanam"}
+{"label":"LOC","pattern":"Faridkot"}
+{"label":"LOC","pattern":"Baran"}
+{"label":"LOC","pattern":"West Sikkim"}
+{"label":"LOC","pattern":"Cuddalore"}
+{"label":"LOC","pattern":"Jagtial"}
+{"label":"LOC","pattern":"North Tripura"}
+{"label":"LOC","pattern":"Champawat"}
+{"label":"LOC","pattern":"Ambedkar Nagar"}
+{"label":"LOC","pattern":"Burdwan (Bardhaman)"}
+{"label":"LOC","pattern":"Krishna"}
+{"label":"LOC","pattern":"Kurung Kumey"}
+{"label":"LOC","pattern":"Cachar"}
+{"label":"LOC","pattern":"Begusarai"}
+{"label":"LOC","pattern":"Bemetara"}
+{"label":"LOC","pattern":"North East  Delhi"}
+{"label":"LOC","pattern":"Banaskantha (Palanpur)"}
+{"label":"LOC","pattern":"Fatehabad"}
+{"label":"LOC","pattern":"Kinnaur"}
+{"label":"LOC","pattern":"Doda"}
+{"label":"LOC","pattern":"Dumka"}
+{"label":"LOC","pattern":"Bengaluru (Bangalore) Urban"}
+{"label":"LOC","pattern":"Kasaragod"}
+{"label":"LOC","pattern":"Chethlath"}
+{"label":"LOC","pattern":"Balaghat"}
+{"label":"LOC","pattern":"Beed"}
+{"label":"LOC","pattern":"Imphal West"}
+{"label":"LOC","pattern":"Ri Bhoi"}
+{"label":"LOC","pattern":"Lunglei"}
+{"label":"LOC","pattern":"Mokokchung"}
+{"label":"LOC","pattern":"Bhadrak"}
+{"label":"LOC","pattern":"Fatehgarh Sahib"}
+{"label":"LOC","pattern":"Barmer"}
+{"label":"LOC","pattern":"Dharmapuri"}
+{"label":"LOC","pattern":"Jangaon"}
+{"label":"LOC","pattern":"Sepahijala"}
+{"label":"LOC","pattern":"Dehradun"}
+{"label":"LOC","pattern":"Amethi (Chatrapati Sahuji Mahraj Nagar)"}
+{"label":"LOC","pattern":"Cooch Behar"}
+{"label":"LOC","pattern":"Kurnool"}
+{"label":"LOC","pattern":"Kra Daadi"}
+{"label":"LOC","pattern":"Charaideo"}
+{"label":"LOC","pattern":"Bhagalpur"}
+{"label":"LOC","pattern":"Bijapur"}
+{"label":"LOC","pattern":"North West  Delhi"}
+{"label":"LOC","pattern":"Bharuch"}
+{"label":"LOC","pattern":"Gurgaon"}
+{"label":"LOC","pattern":"Kullu"}
+{"label":"LOC","pattern":"Ganderbal"}
+{"label":"LOC","pattern":"East Singhbhum"}
+{"label":"LOC","pattern":"Bidar"}
+{"label":"LOC","pattern":"Kollam"}
+{"label":"LOC","pattern":"Kavaratti"}
+{"label":"LOC","pattern":"Barwani"}
+{"label":"LOC","pattern":"Bhandara"}
+{"label":"LOC","pattern":"Jiribam"}
+{"label":"LOC","pattern":"South Garo Hills"}
+{"label":"LOC","pattern":"Mamit"}
+{"label":"LOC","pattern":"Mon"}
+{"label":"LOC","pattern":"Boudh"}
+{"label":"LOC","pattern":"Fazilka"}
+{"label":"LOC","pattern":"Bharatpur"}
+{"label":"LOC","pattern":"Dindigul"}
+{"label":"LOC","pattern":"Jayashankar Bhoopalpally"}
+{"label":"LOC","pattern":"South Tripura"}
+{"label":"LOC","pattern":"Haridwar"}
+{"label":"LOC","pattern":"Amroha (J.P. Nagar)"}
+{"label":"LOC","pattern":"Dakshin Dinajpur (South Dinajpur)"}
+{"label":"LOC","pattern":"Nellore"}
+{"label":"LOC","pattern":"Lower Subansiri"}
+{"label":"LOC","pattern":"Chirang"}
+{"label":"LOC","pattern":"Bhojpur"}
+{"label":"LOC","pattern":"Bilaspur"}
+{"label":"LOC","pattern":"Shahdara"}
+{"label":"LOC","pattern":"Bhavnagar"}
+{"label":"LOC","pattern":"Hisar"}
+{"label":"LOC","pattern":"Lahaul &amp; Spiti"}
+{"label":"LOC","pattern":"Jammu"}
+{"label":"LOC","pattern":"Garhwa"}
+{"label":"LOC","pattern":"Chamarajanagar"}
+{"label":"LOC","pattern":"Kottayam"}
+{"label":"LOC","pattern":"Kadmath"}
+{"label":"LOC","pattern":"Betul"}
+{"label":"LOC","pattern":"Buldhana"}
+{"label":"LOC","pattern":"Kakching"}
+{"label":"LOC","pattern":"South West Garo Hills "}
+{"label":"LOC","pattern":"Saiha"}
+{"label":"LOC","pattern":"Peren"}
+{"label":"LOC","pattern":"Cuttack"}
+{"label":"LOC","pattern":"Ferozepur"}
+{"label":"LOC","pattern":"Bhilwara"}
+{"label":"LOC","pattern":"Erode"}
+{"label":"LOC","pattern":"Jogulamba Gadwal"}
+{"label":"LOC","pattern":"Unakoti"}
+{"label":"LOC","pattern":"Nainital"}
+{"label":"LOC","pattern":"Auraiya"}
+{"label":"LOC","pattern":"Darjeeling"}
+{"label":"LOC","pattern":"Prakasam"}
+{"label":"LOC","pattern":"Upper Subansiri"}
+{"label":"LOC","pattern":"Darrang"}
+{"label":"LOC","pattern":"Buxar"}
+{"label":"LOC","pattern":"Dantewada (South Bastar)"}
+{"label":"LOC","pattern":"South Delhi"}
+{"label":"LOC","pattern":"Botad"}
+{"label":"LOC","pattern":"Jhajjar"}
+{"label":"LOC","pattern":"Mandi"}
+{"label":"LOC","pattern":"Kargil"}
+{"label":"LOC","pattern":"Giridih"}
+{"label":"LOC","pattern":"Chikballapur"}
+{"label":"LOC","pattern":"Kozhikode"}
+{"label":"LOC","pattern":"Kalpeni"}
+{"label":"LOC","pattern":"Bhind"}
+{"label":"LOC","pattern":"Chandrapur"}
+{"label":"LOC","pattern":"Kamjong"}
+{"label":"LOC","pattern":"South West Khasi Hills"}
+{"label":"LOC","pattern":"Serchhip"}
+{"label":"LOC","pattern":"Phek"}
+{"label":"LOC","pattern":"Deogarh"}
+{"label":"LOC","pattern":"Gurdaspur"}
+{"label":"LOC","pattern":"Bikaner"}
+{"label":"LOC","pattern":"Kanchipuram"}
+{"label":"LOC","pattern":"Kamareddy"}
+{"label":"LOC","pattern":"West Tripura"}
+{"label":"LOC","pattern":"Pauri Garhwal"}
+{"label":"LOC","pattern":"Azamgarh"}
+{"label":"LOC","pattern":"Hooghly"}
+{"label":"LOC","pattern":"Srikakulam"}
+{"label":"LOC","pattern":"West Siang"}
+{"label":"LOC","pattern":"Dhemaji"}
+{"label":"LOC","pattern":"Darbhanga"}
+{"label":"LOC","pattern":"Dhamtari"}
+{"label":"LOC","pattern":"South East Delhi"}
+{"label":"LOC","pattern":"Chhota Udepur"}
+{"label":"LOC","pattern":"Jind"}
+{"label":"LOC","pattern":"Shimla"}
+{"label":"LOC","pattern":"Kathua"}
+{"label":"LOC","pattern":"Godda"}
+{"label":"LOC","pattern":"Chikkamagaluru (Chikmagalur)"}
+{"label":"LOC","pattern":"Malappuram"}
+{"label":"LOC","pattern":"Kilthan"}
+{"label":"LOC","pattern":"Bhopal"}
+{"label":"LOC","pattern":"Dhule"}
+{"label":"LOC","pattern":"Kangpokpi"}
+{"label":"LOC","pattern":"West Garo Hills"}
+{"label":"LOC","pattern":"Tuensang"}
+{"label":"LOC","pattern":"Dhenkanal"}
+{"label":"LOC","pattern":"Hoshiarpur"}
+{"label":"LOC","pattern":"Bundi"}
+{"label":"LOC","pattern":"Kanyakumari"}
+{"label":"LOC","pattern":"Karimnagar"}
+{"label":"LOC","pattern":"Pithoragarh"}
+{"label":"LOC","pattern":"Baghpat"}
+{"label":"LOC","pattern":"Howrah"}
+{"label":"LOC","pattern":"Visakhapatnam"}
+{"label":"LOC","pattern":"East Siang"}
+{"label":"LOC","pattern":"Dhubri"}
+{"label":"LOC","pattern":"East Champaran (Motihari)"}
+{"label":"LOC","pattern":"Durg"}
+{"label":"LOC","pattern":"South West  Delhi"}
+{"label":"LOC","pattern":"Dahod"}
+{"label":"LOC","pattern":"Kaithal"}
+{"label":"LOC","pattern":"Sirmaur (Sirmour)"}
+{"label":"LOC","pattern":"Kishtwar"}
+{"label":"LOC","pattern":"Gumla"}
+{"label":"LOC","pattern":"Chitradurga"}
+{"label":"LOC","pattern":"Palakkad"}
+{"label":"LOC","pattern":"Minicoy"}
+{"label":"LOC","pattern":"Burhanpur"}
+{"label":"LOC","pattern":"Gadchiroli"}
+{"label":"LOC","pattern":"Noney"}
+{"label":"LOC","pattern":"West Jaintia Hills"}
+{"label":"LOC","pattern":"Wokha"}
+{"label":"LOC","pattern":"Gajapati"}
+{"label":"LOC","pattern":"Jalandhar"}
+{"label":"LOC","pattern":"Chittorgarh"}
+{"label":"LOC","pattern":"Karur"}
+{"label":"LOC","pattern":"Khammam"}
+{"label":"LOC","pattern":"Rudraprayag"}
+{"label":"LOC","pattern":"Bahraich"}
+{"label":"LOC","pattern":"Jalpaiguri"}
+{"label":"LOC","pattern":"Vizianagaram"}
+{"label":"LOC","pattern":"Siang"}
+{"label":"LOC","pattern":"Dibrugarh"}
+{"label":"LOC","pattern":"Gaya"}
+{"label":"LOC","pattern":"Gariyaband"}
+{"label":"LOC","pattern":"West Delhi"}
+{"label":"LOC","pattern":"Dangs (Ahwa)"}
+{"label":"LOC","pattern":"Karnal"}
+{"label":"LOC","pattern":"Solan"}
+{"label":"LOC","pattern":"Kulgam"}
+{"label":"LOC","pattern":"Hazaribag"}
+{"label":"LOC","pattern":"Dakshina Kannada"}
+{"label":"LOC","pattern":"Pathanamthitta"}
+{"label":"LOC","pattern":"Chhatarpur"}
+{"label":"LOC","pattern":"Gondia"}
+{"label":"LOC","pattern":"Pherzawl"}
+{"label":"LOC","pattern":"West Khasi Hills"}
+{"label":"LOC","pattern":"Zunheboto"}
+{"label":"LOC","pattern":"Ganjam"}
+{"label":"LOC","pattern":"Kapurthala"}
+{"label":"LOC","pattern":"Churu"}
+{"label":"LOC","pattern":"Krishnagiri"}
+{"label":"LOC","pattern":"Komaram Bheem Asifabad"}
+{"label":"LOC","pattern":"Tehri Garhwal"}
+{"label":"LOC","pattern":"Ballia"}
+{"label":"LOC","pattern":"Kalimpong"}
+{"label":"LOC","pattern":"West Godavari"}
+{"label":"LOC","pattern":"Upper Siang"}
+{"label":"LOC","pattern":"Goalpara"}
+{"label":"LOC","pattern":"Gopalganj"}
+{"label":"LOC","pattern":"Janjgir-Champa"}
+{"label":"LOC","pattern":"Devbhoomi Dwarka"}
+{"label":"LOC","pattern":"Kurukshetra"}
+{"label":"LOC","pattern":"Una"}
+{"label":"LOC","pattern":"Kupwara"}
+{"label":"LOC","pattern":"Jamtara"}
+{"label":"LOC","pattern":"Davangere"}
+{"label":"LOC","pattern":"Thiruvananthapuram"}
+{"label":"LOC","pattern":"Chhindwara"}
+{"label":"LOC","pattern":"Hingoli"}
+{"label":"LOC","pattern":"Senapati"}
+{"label":"LOC","pattern":"Jagatsinghapur"}
+{"label":"LOC","pattern":"Ludhiana"}
+{"label":"LOC","pattern":"Dausa"}
+{"label":"LOC","pattern":"Madurai"}
+{"label":"LOC","pattern":"Mahabubabad"}
+{"label":"LOC","pattern":"Udham Singh Nagar"}
+{"label":"LOC","pattern":"Balrampur"}
+{"label":"LOC","pattern":"Kolkata"}
+{"label":"LOC","pattern":"YSR Kadapa"}
+{"label":"LOC","pattern":"Lower Siang"}
+{"label":"LOC","pattern":"Golaghat"}
+{"label":"LOC","pattern":"Jamui"}
+{"label":"LOC","pattern":"Jashpur"}
+{"label":"LOC","pattern":"Gandhinagar"}
+{"label":"LOC","pattern":"Mahendragarh"}
+{"label":"LOC","pattern":"Leh"}
+{"label":"LOC","pattern":"Khunti"}
+{"label":"LOC","pattern":"Dharwad"}
+{"label":"LOC","pattern":"Thrissur"}
+{"label":"LOC","pattern":"Damoh"}
+{"label":"LOC","pattern":"Jalgaon"}
+{"label":"LOC","pattern":"Tamenglong"}
+{"label":"LOC","pattern":"Jajpur"}
+{"label":"LOC","pattern":"Mansa"}
+{"label":"LOC","pattern":"Dholpur"}
+{"label":"LOC","pattern":"Nagapattinam"}
+{"label":"LOC","pattern":"Mahabubnagar"}
+{"label":"LOC","pattern":"Uttarkashi"}
+{"label":"LOC","pattern":"Banda"}
+{"label":"LOC","pattern":"Malda"}
+{"label":"LOC","pattern":"Lower Dibang Valley"}
+{"label":"LOC","pattern":"Hailakandi"}
+{"label":"LOC","pattern":"Jehanabad"}
+{"label":"LOC","pattern":"Kabirdham (Kawardha)"}
+{"label":"LOC","pattern":"Gir Somnath"}
+{"label":"LOC","pattern":"Mewat"}
+{"label":"LOC","pattern":"Poonch"}
+{"label":"LOC","pattern":"Koderma"}
+{"label":"LOC","pattern":"Gadag"}
+{"label":"LOC","pattern":"Wayanad"}
+{"label":"LOC","pattern":"Datia"}
+{"label":"LOC","pattern":"Jalna"}
+{"label":"LOC","pattern":"Tengnoupal"}
+{"label":"LOC","pattern":"Jharsuguda"}
+{"label":"LOC","pattern":"Moga"}
+{"label":"LOC","pattern":"Dungarpur"}
+{"label":"LOC","pattern":"Namakkal"}
+{"label":"LOC","pattern":"Mancherial"}
+{"label":"LOC","pattern":"Barabanki"}
+{"label":"LOC","pattern":"Murshidabad"}
+{"label":"LOC","pattern":"Dibang Valley"}
+{"label":"LOC","pattern":"Hojai"}
+{"label":"LOC","pattern":"Kaimur (Bhabua)"}
+{"label":"LOC","pattern":"Kanker (North Bastar)"}
+{"label":"LOC","pattern":"Jamnagar"}
+{"label":"LOC","pattern":"Palwal"}
+{"label":"LOC","pattern":"Pulwama"}
+{"label":"LOC","pattern":"Latehar"}
+{"label":"LOC","pattern":"Hassan"}
+{"label":"LOC","pattern":"Dewas"}
+{"label":"LOC","pattern":"Kolhapur"}
+{"label":"LOC","pattern":"Thoubal"}
+{"label":"LOC","pattern":"Kalahandi"}
+{"label":"LOC","pattern":"Muktsar"}
+{"label":"LOC","pattern":"Hanumangarh"}
+{"label":"LOC","pattern":"Nilgiris"}
+{"label":"LOC","pattern":"Medak"}
+{"label":"LOC","pattern":"Bareilly"}
+{"label":"LOC","pattern":"Nadia"}
+{"label":"LOC","pattern":"Anjaw"}
+{"label":"LOC","pattern":"Jorhat"}
+{"label":"LOC","pattern":"Katihar"}
+{"label":"LOC","pattern":"Kondagaon"}
+{"label":"LOC","pattern":"Junagadh"}
+{"label":"LOC","pattern":"Panchkula"}
+{"label":"LOC","pattern":"Rajouri"}
+{"label":"LOC","pattern":"Lohardaga"}
+{"label":"LOC","pattern":"Haveri"}
+{"label":"LOC","pattern":"Dhar"}
+{"label":"LOC","pattern":"Latur"}
+{"label":"LOC","pattern":"Ukhrul"}
+{"label":"LOC","pattern":"Kandhamal"}
+{"label":"LOC","pattern":"Nawanshahr (Shahid Bhagat Singh Nagar)"}
+{"label":"LOC","pattern":"Jaipur"}
+{"label":"LOC","pattern":"Perambalur"}
+{"label":"LOC","pattern":"Medchal"}
+{"label":"LOC","pattern":"Basti"}
+{"label":"LOC","pattern":"North 24 Parganas"}
+{"label":"LOC","pattern":"Lohit"}
+{"label":"LOC","pattern":"Kamrup Metropolitan"}
+{"label":"LOC","pattern":"Khagaria"}
+{"label":"LOC","pattern":"Korba"}
+{"label":"LOC","pattern":"Kachchh"}
+{"label":"LOC","pattern":"Panipat"}
+{"label":"LOC","pattern":"Ramban"}
+{"label":"LOC","pattern":"Pakur"}
+{"label":"LOC","pattern":"Kalaburagi (Gulbarga)"}
+{"label":"LOC","pattern":"Dindori"}
+{"label":"LOC","pattern":"Mumbai City"}
+{"label":"LOC","pattern":"Kendrapara"}
+{"label":"LOC","pattern":"Pathankot"}
+{"label":"LOC","pattern":"Jaisalmer"}
+{"label":"LOC","pattern":"Pudukkottai"}
+{"label":"LOC","pattern":"Nagarkurnool"}
+{"label":"LOC","pattern":"Bhadohi"}
+{"label":"LOC","pattern":"Paschim Medinipur (West Medinipur)"}
+{"label":"LOC","pattern":"Namsai"}
+{"label":"LOC","pattern":"Kamrup"}
+{"label":"LOC","pattern":"Kishanganj"}
+{"label":"LOC","pattern":"Korea (Koriya)"}
+{"label":"LOC","pattern":"Kheda (Nadiad)"}
+{"label":"LOC","pattern":"Rewari"}
+{"label":"LOC","pattern":"Reasi"}
+{"label":"LOC","pattern":"Palamu"}
+{"label":"LOC","pattern":"Kodagu"}
+{"label":"LOC","pattern":"Guna"}
+{"label":"LOC","pattern":"Mumbai Suburban"}
+{"label":"LOC","pattern":"Kendujhar (Keonjhar)"}
+{"label":"LOC","pattern":"Patiala"}
+{"label":"LOC","pattern":"Jalore"}
+{"label":"LOC","pattern":"Ramanathapuram"}
+{"label":"LOC","pattern":"Nalgonda"}
+{"label":"LOC","pattern":"Bijnor"}
+{"label":"LOC","pattern":"Purba Medinipur (East Medinipur)"}
+{"label":"LOC","pattern":"Changlang"}
+{"label":"LOC","pattern":"Karbi Anglong"}
+{"label":"LOC","pattern":"Lakhisarai"}
+{"label":"LOC","pattern":"Mahasamund"}
+{"label":"LOC","pattern":"Mahisagar"}
+{"label":"LOC","pattern":"Rohtak"}
+{"label":"LOC","pattern":"Samba"}
+{"label":"LOC","pattern":"Ramgarh"}
+{"label":"LOC","pattern":"Kolar"}
+{"label":"LOC","pattern":"Gwalior"}
+{"label":"LOC","pattern":"Nagpur"}
+{"label":"LOC","pattern":"Khordha"}
+{"label":"LOC","pattern":"Rupnagar"}
+{"label":"LOC","pattern":"Jhalawar"}
+{"label":"LOC","pattern":"Salem"}
+{"label":"LOC","pattern":"Nirmal"}
+{"label":"LOC","pattern":"Budaun"}
+{"label":"LOC","pattern":"Purulia"}
+{"label":"LOC","pattern":"Tirap"}
+{"label":"LOC","pattern":"Karimganj"}
+{"label":"LOC","pattern":"Madhepura"}
+{"label":"LOC","pattern":"Mungeli"}
+{"label":"LOC","pattern":"Mehsana"}
+{"label":"LOC","pattern":"Sirsa"}
+{"label":"LOC","pattern":"Shopian"}
+{"label":"LOC","pattern":"Ranchi"}
+{"label":"LOC","pattern":"Koppal"}
+{"label":"LOC","pattern":"Harda"}
+{"label":"LOC","pattern":"Nanded"}
+{"label":"LOC","pattern":"Koraput"}
+{"label":"LOC","pattern":"Sahibzada Ajit Singh Nagar (Mohali)"}
+{"label":"LOC","pattern":"Jhunjhunu"}
+{"label":"LOC","pattern":"Sivaganga"}
+{"label":"LOC","pattern":"Nizamabad"}
+{"label":"LOC","pattern":"Bulandshahr"}
+{"label":"LOC","pattern":"South 24 Parganas"}
+{"label":"LOC","pattern":"Longding"}
+{"label":"LOC","pattern":"Kokrajhar"}
+{"label":"LOC","pattern":"Madhubani"}
+{"label":"LOC","pattern":"Narayanpur"}
+{"label":"LOC","pattern":"Morbi"}
+{"label":"LOC","pattern":"Sonipat"}
+{"label":"LOC","pattern":"Srinagar"}
+{"label":"LOC","pattern":"Sahibganj"}
+{"label":"LOC","pattern":"Mandya"}
+{"label":"LOC","pattern":"Hoshangabad"}
+{"label":"LOC","pattern":"Nandurbar"}
+{"label":"LOC","pattern":"Malkangiri"}
+{"label":"LOC","pattern":"Sangrur"}
+{"label":"LOC","pattern":"Jodhpur"}
+{"label":"LOC","pattern":"Thanjavur"}
+{"label":"LOC","pattern":"Peddapalli"}
+{"label":"LOC","pattern":"Chandauli"}
+{"label":"LOC","pattern":"Uttar Dinajpur (North Dinajpur)"}
+{"label":"LOC","pattern":"Lakhimpur"}
+{"label":"LOC","pattern":"Munger (Monghyr)"}
+{"label":"LOC","pattern":"Raigarh"}
+{"label":"LOC","pattern":"Narmada (Rajpipla)"}
+{"label":"LOC","pattern":"Yamunanagar"}
+{"label":"LOC","pattern":"Udhampur"}
+{"label":"LOC","pattern":"Seraikela-Kharsawan"}
+{"label":"LOC","pattern":"Mysuru (Mysore)"}
+{"label":"LOC","pattern":"Indore"}
+{"label":"LOC","pattern":"Nashik"}
+{"label":"LOC","pattern":"Mayurbhanj"}
+{"label":"LOC","pattern":"Tarn Taran"}
+{"label":"LOC","pattern":"Karauli"}
+{"label":"LOC","pattern":"Theni"}
+{"label":"LOC","pattern":"Rajanna Sircilla"}
+{"label":"LOC","pattern":"Chitrakoot"}
+{"label":"LOC","pattern":"Majuli"}
+{"label":"LOC","pattern":"Muzaffarpur"}
+{"label":"LOC","pattern":"Raipur"}
+{"label":"LOC","pattern":"Navsari"}
+{"label":"LOC","pattern":"Simdega"}
+{"label":"LOC","pattern":"Raichur"}
+{"label":"LOC","pattern":"Jabalpur"}
+{"label":"LOC","pattern":"Osmanabad"}
+{"label":"LOC","pattern":"Nabarangpur"}
+{"label":"LOC","pattern":"Kota"}
+{"label":"LOC","pattern":"Thoothukudi (Tuticorin)"}
+{"label":"LOC","pattern":"Rangareddy"}
+{"label":"LOC","pattern":"Deoria"}
+{"label":"LOC","pattern":"Morigaon"}
+{"label":"LOC","pattern":"Nalanda"}
+{"label":"LOC","pattern":"Rajnandgaon"}
+{"label":"LOC","pattern":"Panchmahal (Godhra)"}
+{"label":"LOC","pattern":"West Singhbhum"}
+{"label":"LOC","pattern":"Ramanagara"}
+{"label":"LOC","pattern":"Jhabua"}
+{"label":"LOC","pattern":"Palghar"}
+{"label":"LOC","pattern":"Nayagarh"}
+{"label":"LOC","pattern":"Nagaur"}
+{"label":"LOC","pattern":"Tiruchirappalli"}
+{"label":"LOC","pattern":"Sangareddy"}
+{"label":"LOC","pattern":"Etah"}
+{"label":"LOC","pattern":"Nagaon"}
+{"label":"LOC","pattern":"Nawada"}
+{"label":"LOC","pattern":"Sukma"}
+{"label":"LOC","pattern":"Patan"}
+{"label":"LOC","pattern":"Shivamogga (Shimoga)"}
+{"label":"LOC","pattern":"Katni"}
+{"label":"LOC","pattern":"Parbhani"}
+{"label":"LOC","pattern":"Nuapada"}
+{"label":"LOC","pattern":"Pali"}
+{"label":"LOC","pattern":"Tirunelveli"}
+{"label":"LOC","pattern":"Siddipet"}
+{"label":"LOC","pattern":"Etawah"}
+{"label":"LOC","pattern":"Nalbari"}
+{"label":"LOC","pattern":"Patna"}
+{"label":"LOC","pattern":"Surajpur  "}
+{"label":"LOC","pattern":"Porbandar"}
+{"label":"LOC","pattern":"Tumakuru (Tumkur)"}
+{"label":"LOC","pattern":"Khandwa"}
+{"label":"LOC","pattern":"Pune"}
+{"label":"LOC","pattern":"Puri"}
+{"label":"LOC","pattern":"Pratapgarh"}
+{"label":"LOC","pattern":"Tiruppur"}
+{"label":"LOC","pattern":"Suryapet"}
+{"label":"LOC","pattern":"Faizabad"}
+{"label":"LOC","pattern":"Dima Hasao"}
+{"label":"LOC","pattern":"Purnia (Purnea)"}
+{"label":"LOC","pattern":"Surguja"}
+{"label":"LOC","pattern":"Rajkot"}
+{"label":"LOC","pattern":"Udupi"}
+{"label":"LOC","pattern":"Khargone"}
+{"label":"LOC","pattern":"Raigad"}
+{"label":"LOC","pattern":"Rayagada"}
+{"label":"LOC","pattern":"Rajsamand"}
+{"label":"LOC","pattern":"Tiruvallur"}
+{"label":"LOC","pattern":"Vikarabad"}
+{"label":"LOC","pattern":"Farrukhabad"}
+{"label":"LOC","pattern":"Sivasagar"}
+{"label":"LOC","pattern":"Rohtas"}
+{"label":"LOC","pattern":"Sabarkantha (Himmatnagar)"}
+{"label":"LOC","pattern":"Uttara Kannada (Karwar)"}
+{"label":"LOC","pattern":"Mandla"}
+{"label":"LOC","pattern":"Ratnagiri"}
+{"label":"LOC","pattern":"Sambalpur"}
+{"label":"LOC","pattern":"Sawai Madhopur"}
+{"label":"LOC","pattern":"Tiruvannamalai"}
+{"label":"LOC","pattern":"Wanaparthy"}
+{"label":"LOC","pattern":"Fatehpur"}
+{"label":"LOC","pattern":"Sonitpur"}
+{"label":"LOC","pattern":"Saharsa"}
+{"label":"LOC","pattern":"Surat"}
+{"label":"LOC","pattern":"Vijayapura (Bijapur)"}
+{"label":"LOC","pattern":"Mandsaur"}
+{"label":"LOC","pattern":"Sangli"}
+{"label":"LOC","pattern":"Sonepur"}
+{"label":"LOC","pattern":"Sikar"}
+{"label":"LOC","pattern":"Tiruvarur"}
+{"label":"LOC","pattern":"Warangal (Rural)"}
+{"label":"LOC","pattern":"Firozabad"}
+{"label":"LOC","pattern":"South Salmara-Mankachar"}
+{"label":"LOC","pattern":"Samastipur"}
+{"label":"LOC","pattern":"Surendranagar"}
+{"label":"LOC","pattern":"Yadgir"}
+{"label":"LOC","pattern":"Morena"}
+{"label":"LOC","pattern":"Satara"}
+{"label":"LOC","pattern":"Sundargarh"}
+{"label":"LOC","pattern":"Sirohi"}
+{"label":"LOC","pattern":"Vellore"}
+{"label":"LOC","pattern":"Warangal (Urban)"}
+{"label":"LOC","pattern":"Gautam Buddha Nagar"}
+{"label":"LOC","pattern":"Tinsukia"}
+{"label":"LOC","pattern":"Saran"}
+{"label":"LOC","pattern":"Tapi (Vyara)"}
+{"label":"LOC","pattern":"Narsinghpur"}
+{"label":"LOC","pattern":"Sindhudurg"}
+{"label":"LOC","pattern":"Sri Ganganagar"}
+{"label":"LOC","pattern":"Viluppuram"}
+{"label":"LOC","pattern":"Yadadri Bhuvanagiri"}
+{"label":"LOC","pattern":"Ghaziabad"}
+{"label":"LOC","pattern":"Udalguri"}
+{"label":"LOC","pattern":"Sheikhpura"}
+{"label":"LOC","pattern":"Vadodara"}
+{"label":"LOC","pattern":"Neemuch"}
+{"label":"LOC","pattern":"Solapur"}
+{"label":"LOC","pattern":"Tonk"}
+{"label":"LOC","pattern":"Virudhunagar"}
+{"label":"LOC","pattern":"Ghazipur"}
+{"label":"LOC","pattern":"West Karbi Anglong"}
+{"label":"LOC","pattern":"Sheohar"}
+{"label":"LOC","pattern":"Valsad"}
+{"label":"LOC","pattern":"Panna"}
+{"label":"LOC","pattern":"Thane"}
+{"label":"LOC","pattern":"Udaipur"}
+{"label":"LOC","pattern":"Gonda"}
+{"label":"LOC","pattern":"Sitamarhi"}
+{"label":"LOC","pattern":"Raisen"}
+{"label":"LOC","pattern":"Wardha"}
+{"label":"LOC","pattern":"Gorakhpur"}
+{"label":"LOC","pattern":"Siwan"}
+{"label":"LOC","pattern":"Rajgarh"}
+{"label":"LOC","pattern":"Washim"}
+{"label":"LOC","pattern":"Hamirpur"}
+{"label":"LOC","pattern":"Supaul"}
+{"label":"LOC","pattern":"Ratlam"}
+{"label":"LOC","pattern":"Yavatmal"}
+{"label":"LOC","pattern":"Hapur (Panchsheel Nagar)"}
+{"label":"LOC","pattern":"Vaishali"}
+{"label":"LOC","pattern":"Rewa"}
+{"label":"LOC","pattern":"Hardoi"}
+{"label":"LOC","pattern":"West Champaran"}
+{"label":"LOC","pattern":"Sagar"}
+{"label":"LOC","pattern":"Hathras"}
+{"label":"LOC","pattern":"Satna"}
+{"label":"LOC","pattern":"Jalaun"}
+{"label":"LOC","pattern":"Sehore"}
+{"label":"LOC","pattern":"Jaunpur"}
+{"label":"LOC","pattern":"Seoni"}
+{"label":"LOC","pattern":"Jhansi"}
+{"label":"LOC","pattern":"Shahdol"}
+{"label":"LOC","pattern":"Kannauj"}
+{"label":"LOC","pattern":"Shajapur"}
+{"label":"LOC","pattern":"Kanpur Dehat"}
+{"label":"LOC","pattern":"Sheopur"}
+{"label":"LOC","pattern":"Kanpur Nagar"}
+{"label":"LOC","pattern":"Shivpuri"}
+{"label":"LOC","pattern":"Kanshiram Nagar (Kasganj)"}
+{"label":"LOC","pattern":"Sidhi"}
+{"label":"LOC","pattern":"Kaushambi"}
+{"label":"LOC","pattern":"Singrauli"}
+{"label":"LOC","pattern":"Kushinagar (Padrauna)"}
+{"label":"LOC","pattern":"Tikamgarh"}
+{"label":"LOC","pattern":"Lakhimpur - Kheri"}
+{"label":"LOC","pattern":"Ujjain"}
+{"label":"LOC","pattern":"Lalitpur"}
+{"label":"LOC","pattern":"Umaria"}
+{"label":"LOC","pattern":"Lucknow"}
+{"label":"LOC","pattern":"Vidisha"}
+{"label":"LOC","pattern":"Maharajganj"}
+{"label":"LOC","pattern":"Mahoba"}
+{"label":"LOC","pattern":"Mainpuri"}
+{"label":"LOC","pattern":"Mathura"}
+{"label":"LOC","pattern":"Mau"}
+{"label":"LOC","pattern":"Meerut"}
+{"label":"LOC","pattern":"Mirzapur"}
+{"label":"LOC","pattern":"Moradabad"}
+{"label":"LOC","pattern":"Muzaffarnagar"}
+{"label":"LOC","pattern":"Pilibhit"}
+{"label":"LOC","pattern":"Pratapgarh"}
+{"label":"LOC","pattern":"RaeBareli"}
+{"label":"LOC","pattern":"Rampur"}
+{"label":"LOC","pattern":"Saharanpur"}
+{"label":"LOC","pattern":"Sambhal (Bhim Nagar)"}
+{"label":"LOC","pattern":"Sant Kabir Nagar"}
+{"label":"LOC","pattern":"Shahjahanpur"}
+{"label":"LOC","pattern":"Shamali (Prabuddh Nagar)"}
+{"label":"LOC","pattern":"Shravasti"}
+{"label":"LOC","pattern":"Siddharth Nagar"}
+{"label":"LOC","pattern":"Sitapur"}
+{"label":"LOC","pattern":"Sonbhadra"}
+{"label":"LOC","pattern":"Sultanpur"}
+{"label":"LOC","pattern":"Unnao"}
+{"label":"LOC","pattern":"Varanasi"}
+{"label":"PERSON","pattern":"specialist"}
+{"label":"PERSON","pattern":"police"}
+{"label":"PERSON","pattern":"legislator"}
+{"label":"PERSON","pattern":"prisoners"}
+{"label":"PERSON","pattern":"activists"}
+{"label":"PERSON","pattern":"workers"}
+{"label":"PERSON","pattern":"members"}
+{"label":"PERSON","pattern":"locals"}
+{"label":"PERSON","pattern":"supporters"}
+{"label":"PERSON","pattern":"employees"}
+{"label":"PERSON","pattern":"students"}
+{"label":"PERSON","pattern":"protesters"}
+{"label":"PERSON","pattern":"residents"}
+{"label":"PERSON","pattern":"farmers"}
+{"label":"PERSON","pattern":"victims"}
+{"label":"PERSON","pattern":"rioters"}
+{"label":"PERSON","pattern":"villagers"}
+{"label":"PERSON","pattern":"officials"}
+{"label":"PERSON","pattern":"civilians"}
+{"label":"PERSON","pattern":"leaders"}
+{"label":"PERSON","pattern":"communities"}
+{"label":"PERSON","pattern":"devotees"}
+{"label":"PERSON","pattern":"youth"}
+{"label":"PERSON","pattern":"militants"}
+{"label":"PERSON","pattern":"headmaster"}
+{"label":"PERSON","pattern":"teachers"}
+{"label":"PERSON","pattern":"lawyers"}
+{"label":"GPE","pattern":"South India"}
+{"label":"GPE","pattern":"North India"}

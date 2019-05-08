@@ -1,0 +1,16 @@
+pandas
+keras
+sklearn
+numpy
+nltk
+gensim
+tensorflow
+seaborn
+matplotlib
+praw
+bs4
+html2text
+spacy
+flask-cors
+googlemaps
+networkx
